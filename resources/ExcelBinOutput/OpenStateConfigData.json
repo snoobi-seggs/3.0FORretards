@@ -1,0 +1,727 @@
+[
+    {
+        "id": 1,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 3,
+        "defaultState": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 4,
+        "defaultState": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 10,
+        "defaultState": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 5,
+        "defaultState": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 6,
+        "defaultState": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 7,
+        "defaultState": true,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 8,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 9,
+        "defaultState": true,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 11,
+        "defaultState": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 12,
+        "defaultState": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 31,
+        "cond": [
+            {
+                "condType": "OPEN_STATE_COND_QUEST",
+                "param": 2010001
+            }
+        ],
+        "systemOpenUiId": 1
+    },
+    {},
+    {
+        "id": 9
+    },
+    {
+        "defaultState": true
+    },
+    {
+        "id": 1
+    },
+    {},
+    {
+        "id": 54,
+        "cond": [
+            {
+                "condType": "OPEN_STATE_COND_QUEST",
+                "param": 35723
+            }
+        ],
+        "systemOpenUiId": 1
+    },
+    {},
+    {
+        "id": 13
+    },
+    {
+        "defaultState": true
+    },
+    {},
+    {},
+    {
+        "id": 14,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 15,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 16,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 17,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 18,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 19,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 20,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 21,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 22,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 23,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 24,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 25,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 26,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 27,
+        "defaultState": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 28,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 29,
+        "defaultState": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 32,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 33,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 34,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 35,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 36,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 38,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 40,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 41,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 50,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 51,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 59,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 52,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 53,
+        "cond": [
+            {
+                "condType": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "param": 8
+            }
+        ],
+        "systemOpenUiId": 1
+    },
+    {},
+    {
+        "id": 58
+    },
+    {
+        "defaultState": true
+    },
+    {},
+    {},
+    {
+        "id": 76,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 60,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 61,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 62,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 63,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 64,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 66,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 67,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 68,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 69,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 70,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 71,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 72,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 73,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 74,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 75,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 77,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 78,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 79,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 80,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 81,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 82,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 83,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 84,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2001,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2002,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2003,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2004,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2104,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2105,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2106,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 1411,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 1412,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2205,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2206,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2400,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2401,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2402,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2210,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2211,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2212,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2601,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {},
+    {
+        "id": 2700,
+        "allowClientOpen": true,
+        "cond": [
+            {}
+        ]
+    },
+    {}
+]

@@ -1,0 +1,203 @@
+{
+  "folderStructure": {
+    "resources": "./resources/",
+    "data": "./data/",
+    "packets": "./packets/",
+    "keys": "./keys/",
+    "scripts": "./resources/Scripts/",
+    "plugins": "./plugins/",
+    "VERSION": "./ver"
+  },
+  "databaseInfo": {
+    "server": {
+      "connectionUri": "mongodb://localhost:27017",
+      "collection": "grasscutter"
+    },
+    "game": {
+      "connectionUri": "mongodb://localhost:27017",
+      "collection": "grasscutter"
+    }
+  },
+  "language": {
+    "language": "en_SG",
+    "fallback": "en_US",
+    "document": "EN"
+  },
+  "account": {
+    "autoCreate": true,
+    "defaultPermissions": [
+      "-server.announce",
+      "-server.windy",
+      "-server.restart",
+      "-server.stop",
+      "-server.permission",
+      "-server.account",
+      "-server.broadcast",
+      "-server.coop",
+      "-server.kick",
+      "-server.reload",
+      "-server.resetshop",
+      "-server.sendmail",
+      "-player.tpall",
+      "-player.*.others",
+      "-server.*.others",
+      "*"
+    ],
+    "maxPlayer": 1000,
+    "EXPERIMENTAL_RealPassword": false
+  },
+  "server": {
+    "debugLevel": "NONE",
+    "DebugBlacklist": [
+      2372,
+      21,
+      22,
+      7
+    ],
+    "DebugWatchPayload": [],
+    "runMode": "HYBRID",
+    "http": {
+      "bindAddress": "0.0.0.0",
+      "bindPort": 443,
+      "accessAddress": "127.0.0.1",
+      "accessPort": 0,
+      "encryption": {
+        "useEncryption": true,
+        "useInRouting": true,
+        "keystore": "./keystore.p12",
+        "keystorePassword": "123456"
+      },
+      "policies": {
+        "cors": {
+          "enabled": true,
+          "allowedOrigins": [
+            "*"
+          ]
+        }
+      },
+      "files": {
+        "indexFile": "./index.html",
+        "errorFile": "./404.html"
+      }
+    },
+    "game": {
+      "bindAddress": "0.0.0.0",
+      "bindPort": 22102,
+      "accessAddress": "127.0.0.1",
+      "accessPort": 0,
+      "loadEntitiesForPlayerRange": 50,
+      "enableScriptInBigWorld": true,
+      "enableConsole": true,
+      "kcpInterval": 20,
+      "logPackets": "NONE",
+      "gameOptions": {
+        "inventoryLimits": {
+          "weapons": 2500,
+          "relics": 2500,
+          "materials": 2500,
+          "furniture": 2500,
+          "all": 10000
+        },
+        "avatarLimits": {
+          "singlePlayerTeam": 50,
+          "multiplayerTeam": 50
+        },
+        "CMD_Spawn": 500,
+        "sceneEntityLimit": 10000,
+        "watchGachaConfig": false,
+        "staminaUsage": false,
+        "energyUsage": false,
+        "fishhookTeleport": true,
+        "resinOptions": {
+          "resinUsage": true,
+          "cap": 160,
+          "rechargeTime": 480
+        },
+        "rates": {
+          "adventureExp": 1.0,
+          "mora": 1.0,
+          "leyLines": 1.0
+        },
+        "CMD_Give_WP": 10,
+        "CMD_Give_ART": 10,
+        "CMD_Give": 10000000,
+        "CMD_DayLogin": 8,
+        "CMD_NoGiveTes": false,
+        "CMD_ListOnline": false,
+        "DropMo": true,
+        "DungeonMT": false,
+        "AbyssMT": false
+      },
+      "joinOptions": {
+        "welcomeEmotes": [
+          8001,
+          8002,
+          8003,
+          8004,
+          14005,
+          14006,
+          14007,
+          14008
+        ],
+        "welcomeMessage": "Welcome to 3.0 my seggsy daddy.",
+        "welcomeMail": {
+          "title": "Welcome to 3.0",
+          "content": "omg real seggs",
+          "sender": "paimon's nipples",
+          "items": [
+            {
+              "itemId": 223,
+              "itemCount": 1000,
+              "itemLevel": 1
+            },
+            {
+              "itemId": 224,
+              "itemCount": 1000,
+              "itemLevel": 1
+            },
+            {
+              "itemId": 202,
+              "itemCount": 6000000,
+              "itemLevel": 1
+            },
+            {
+              "itemId": 201,
+              "itemCount": 60000,
+              "itemLevel": 1
+            },
+            {
+              "itemId": 203,
+              "itemCount": 10000,
+              "itemLevel": 1
+            },
+            {
+              "itemId": 204,
+              "itemCount": 1000000,
+              "itemLevel": 1
+            },
+            {
+              "itemId": 303,
+              "itemCount": 1000,
+              "itemLevel": 1
+            }
+          ]
+        }
+      },
+      "serverAccount": {
+        "avatarId": 10000069,
+        "nameCardId": 210081,
+        "adventureRank": 60,
+        "worldLevel": 8,
+        "nickName": "Paimon's Nipples",
+        "signature": "come lick",
+        "token": "melon"
+      }
+    },
+    "dispatch": {
+      "regions": [],
+      "defaultName": "Grasscutter",
+      "logRequests": "NONE"
+    }
+  },
+  "version": 10
+}

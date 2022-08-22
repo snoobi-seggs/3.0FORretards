@@ -1,0 +1,144 @@
+2022-08-23T00:55:29Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-SG.json, falling back to: en-US.json
+2022-08-23T00:55:29Z <INFO:emu.grasscutter.Grasscutter> Cores : 8
+2022-08-23T00:55:29Z <INFO:emu.grasscutter.Grasscutter> Memory: 4046
+2022-08-23T00:55:30Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-08-23T00:55:30Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-08-23T00:55:33Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-08-23T00:55:34Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-08-23T00:55:35Z <INFO:emu.grasscutter.task.tasks.AnnouncementTask> [Task] Announcement task enabled.
+2022-08-23T00:55:35Z <INFO:emu.grasscutter.task.tasks.MoonCard> [Task] MoonCard task enabled.
+2022-08-23T00:55:35Z <INFO:emu.grasscutter.task.tasks.Banner> [Task] Banner task enabled.
+2022-08-23T00:55:36Z <INFO:emu.grasscutter.game.gacha.GachaSystem> Banners loaded from cloud
+2022-08-23T00:55:36Z <INFO:emu.grasscutter.game.gacha.GachaSystem> Banners 44 successfully loaded.
+2022-08-23T00:55:36Z <INFO:emu.grasscutter.game.gacha.GachaSystem> Banners 1 | GachaShowPanel_A022
+2022-08-23T00:55:36Z <INFO:emu.grasscutter.game.gacha.GachaSystem> Banners 2 | GachaShowPanel_A016
+2022-08-23T00:55:36Z <INFO:emu.grasscutter.game.gacha.GachaSystem> Banners 142 | GachaShowPanel_A089
+2022-08-23T00:55:37Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started on port 443
+2022-08-23T00:55:37Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-08-23T00:55:37Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started on port 22102
+2022-08-23T00:55:37Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-08-23T00:56:04Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 127.0.0.1 failed to log in via token.
+2022-08-23T00:56:10Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$PasswordAuthenticator> [Dispatch] Client 127.0.0.1 logged in as 10047.
+2022-08-23T00:56:10Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client 127.0.0.1 succeed to exchange combo token.
+2022-08-23T00:56:12Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 127.0.0.1 (OSRELWin3.0.0) (KEY: 3) (SEED: fdbb946d8ec3ddc3) request: query_cur_region/os_usa
+2022-08-23T00:56:23Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from /127.0.0.1:55662
+2022-08-23T00:56:23Z <INFO:emu.grasscutter.game.player.Player> User new join? (ID: 10047) 
+2022-08-23T00:57:31Z <INFO:emu.grasscutter.game.activity.ActivityManager> Enable 7 activities.
+2022-08-23T00:59:35Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-SG.json, falling back to: en-US.json
+2022-08-23T01:00:00Z <INFO:emu.grasscutter.game.gacha.GachaSystem> Banners Event Now (120) UI_GACHA_SHOW_PANEL_A065_TITLE successfully loaded. Next 1661187900
+2022-08-23T01:00:00Z <INFO:emu.grasscutter.game.gacha.GachaSystem> Banners Weapons Now (138) UI_GACHA_SHOW_PANEL_A013_TITLE successfully loaded. Next 1661187900
+2022-08-23T01:04:25Z <INFO:emu.grasscutter.command.CommandHandler> Reloading config.
+2022-08-23T01:04:25Z <INFO:emu.grasscutter.command.CommandHandler> Reload complete.
+2022-08-23T01:04:56Z <INFO:emu.grasscutter.command.CommandHandler> Reloading config.
+2022-08-23T01:04:56Z <INFO:emu.grasscutter.command.CommandHandler> Reload complete.
+2022-08-23T01:05:00Z <INFO:emu.grasscutter.game.gacha.GachaSystem> Banners Event Now (139) UI_GACHA_SHOW_PANEL_A045_TITLE successfully loaded. Next 1661188200
+2022-08-23T01:05:00Z <INFO:emu.grasscutter.game.gacha.GachaSystem> Banners Weapons Now (127) UI_GACHA_SHOW_PANEL_A070_TITLE successfully loaded. Next 1661188200
+2022-08-23T01:06:45Z <INFO:emu.grasscutter.command.CommandHandler> Reloading config.
+2022-08-23T01:06:45Z <INFO:emu.grasscutter.command.CommandHandler> Reload complete.
+2022-08-23T01:08:18Z <INFO:emu.grasscutter.command.CommandHandler> Reloading config.
+2022-08-23T01:08:18Z <INFO:emu.grasscutter.command.CommandHandler> Reload complete.
+2022-08-23T01:08:48Z <INFO:emu.grasscutter.command.CommandHandler> Reloading config.
+2022-08-23T01:08:48Z <INFO:emu.grasscutter.command.CommandHandler> Reload complete.
+2022-08-23T01:08:53Z <INFO:emu.grasscutter.command.CommandHandler> Server shutting down...
+2022-08-23T01:08:53Z <INFO:emu.grasscutter.server.game.GameServer> Exit with code 1 | exit by cmd
+2022-08-23T01:08:53Z <INFO:emu.grasscutter.server.game.GameServer> -> Total Player Kick 1
+2022-08-23T01:08:53Z <INFO:emu.grasscutter.server.game.GameServer> Done...
+2022-08-23T01:08:53Z <WARN:emu.grasscutter.server.game.GameSession> Client disconnected from /127.0.0.1:55662
+2022-08-23T01:09:04Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-SG.json, falling back to: en-US.json
+2022-08-23T01:09:05Z <INFO:emu.grasscutter.Grasscutter> Cores : 8
+2022-08-23T01:09:05Z <INFO:emu.grasscutter.Grasscutter> Memory: 4046
+2022-08-23T01:09:05Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-08-23T01:09:06Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-08-23T01:09:12Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-08-23T01:09:12Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-08-23T01:09:15Z <INFO:emu.grasscutter.task.tasks.AnnouncementTask> [Task] Announcement task enabled.
+2022-08-23T01:09:15Z <INFO:emu.grasscutter.task.tasks.MoonCard> [Task] MoonCard task enabled.
+2022-08-23T01:09:15Z <INFO:emu.grasscutter.task.tasks.Banner> [Task] Banner task enabled.
+2022-08-23T01:09:16Z <INFO:emu.grasscutter.game.gacha.GachaSystem> Banners loaded from cloud
+2022-08-23T01:09:16Z <INFO:emu.grasscutter.game.gacha.GachaSystem> Banners 44 successfully loaded.
+2022-08-23T01:09:16Z <INFO:emu.grasscutter.game.gacha.GachaSystem> Banners 1 | GachaShowPanel_A022
+2022-08-23T01:09:16Z <INFO:emu.grasscutter.game.gacha.GachaSystem> Banners 2 | GachaShowPanel_A016
+2022-08-23T01:09:16Z <INFO:emu.grasscutter.game.gacha.GachaSystem> Banners 142 | GachaShowPanel_A089
+2022-08-23T01:09:17Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from /127.0.0.1:50234
+2022-08-23T01:09:17Z <INFO:emu.grasscutter.game.player.Player> LastLast Index 0 (Good 0 index) (IDAV:10000005) (IDMR:10000005) (ID: 10047) (TT 1)
+2022-08-23T01:09:17Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started on port 443
+2022-08-23T01:09:17Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-08-23T01:09:17Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started on port 22102
+2022-08-23T01:09:17Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-08-23T01:09:19Z <INFO:emu.grasscutter.game.activity.ActivityManager> Enable 7 activities.
+2022-08-23T01:09:41Z <INFO:emu.grasscutter.command.CommandHandler> Reloading config.
+2022-08-23T01:09:41Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-SG.json, falling back to: en-US.json
+2022-08-23T01:09:41Z <INFO:emu.grasscutter.command.CommandHandler> Reload complete.
+2022-08-23T01:09:58Z <INFO:emu.grasscutter.command.CommandHandler> This command requires a target UID. Add a <@UID> argument or set a persistent target with /target @UID.
+2022-08-23T01:10:00Z <INFO:emu.grasscutter.game.gacha.GachaSystem> Banners Event Now (102) UI_GACHA_SHOW_PANEL_A023_TITLE successfully loaded. Next 1661188500
+2022-08-23T01:10:00Z <INFO:emu.grasscutter.game.gacha.GachaSystem> Banners Weapons Now (130) UI_GACHA_SHOW_PANEL_A050_TITLE successfully loaded. Next 1661188500
+2022-08-23T01:10:12Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-SG.json, falling back to: en-US.json
+2022-08-23T01:10:13Z <INFO:emu.grasscutter.Grasscutter> Cores : 8
+2022-08-23T01:10:13Z <INFO:emu.grasscutter.Grasscutter> Memory: 4046
+2022-08-23T01:10:13Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-08-23T01:10:13Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-08-23T01:10:13Z <INFO:emu.grasscutter.command.CommandHandler> Server shutting down...
+2022-08-23T01:10:13Z <INFO:emu.grasscutter.server.game.GameServer> Exit with code 1 | exit by cmd
+2022-08-23T01:10:13Z <INFO:emu.grasscutter.server.game.GameServer> -> Total Player Kick 1
+2022-08-23T01:10:13Z <INFO:emu.grasscutter.server.game.GameServer> Done...
+2022-08-23T01:10:13Z <WARN:emu.grasscutter.server.game.GameSession> Client disconnected from /127.0.0.1:50234
+2022-08-23T01:10:19Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-08-23T01:10:40Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-08-23T01:10:43Z <INFO:emu.grasscutter.task.tasks.AnnouncementTask> [Task] Announcement task enabled.
+2022-08-23T01:10:43Z <INFO:emu.grasscutter.task.tasks.MoonCard> [Task] MoonCard task enabled.
+2022-08-23T01:10:43Z <INFO:emu.grasscutter.task.tasks.Banner> [Task] Banner task enabled.
+2022-08-23T01:10:44Z <ERROR:emu.grasscutter.utils.Utils> Error curl1: https://ps.yuuki.me/api/genshin/banner :
+java.net.UnknownHostException: No such host is known (ps.yuuki.me)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1519)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1509)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1367)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1301)
+	at okhttp3.Dns$Companion$DnsSystem.lookup(Dns.kt:49)
+	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(RouteSelector.kt:164)
+	at okhttp3.internal.connection.RouteSelector.nextProxy(RouteSelector.kt:129)
+	at okhttp3.internal.connection.RouteSelector.next(RouteSelector.kt:71)
+	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:205)
+	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106)
+	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74)
+	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201)
+	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:154)
+	at emu.grasscutter.utils.Utils.curl(Utils.java:542)
+	at emu.grasscutter.game.gacha.GachaSystem.load(GachaSystem.java:73)
+	at emu.grasscutter.game.gacha.GachaSystem.<init>(GachaSystem.java:53)
+	at emu.grasscutter.server.game.GameServer.<init>(GameServer.java:121)
+	at emu.grasscutter.server.game.GameServer.<init>(GameServer.java:88)
+	at emu.grasscutter.Grasscutter.main(Grasscutter.java:138)
+2022-08-23T01:10:44Z <ERROR:emu.grasscutter.game.gacha.GachaSystem> Banner error:
+java.lang.NullPointerException: Cannot invoke "java.util.List.size()" because "banners" is null
+	at emu.grasscutter.game.gacha.GachaSystem.load(GachaSystem.java:74)
+	at emu.grasscutter.game.gacha.GachaSystem.<init>(GachaSystem.java:53)
+	at emu.grasscutter.server.game.GameServer.<init>(GameServer.java:121)
+	at emu.grasscutter.server.game.GameServer.<init>(GameServer.java:88)
+	at emu.grasscutter.Grasscutter.main(Grasscutter.java:138)
+2022-08-23T01:10:44Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from /127.0.0.1:50239
+2022-08-23T01:10:45Z <INFO:emu.grasscutter.game.player.Player> LastLast Index 0 (Good 0 index) (IDAV:10000005) (IDMR:10000005) (ID: 10047) (TT 1)
+2022-08-23T01:10:46Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started on port 443
+2022-08-23T01:10:46Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-08-23T01:10:46Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started on port 22102
+2022-08-23T01:10:46Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-08-23T01:10:47Z <INFO:emu.grasscutter.game.activity.ActivityManager> Enable 7 activities.
+2022-08-23T01:12:39Z <INFO:emu.grasscutter.command.CommandHandler> Reloading config.
+2022-08-23T01:12:39Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-SG.json, falling back to: en-US.json
+2022-08-23T01:12:39Z <INFO:emu.grasscutter.command.CommandHandler> Reload complete.
+2022-08-23T01:13:02Z <INFO:emu.grasscutter.command.CommandHandler> Server shutting down...
+2022-08-23T01:13:02Z <INFO:emu.grasscutter.server.game.GameServer> Exit with code 1 | exit by cmd
+2022-08-23T01:13:02Z <INFO:emu.grasscutter.server.game.GameServer> -> Total Player Kick 1
+2022-08-23T01:13:02Z <WARN:emu.grasscutter.server.game.GameSession> Client disconnected from /127.0.0.1:50239
+2022-08-23T01:13:02Z <INFO:emu.grasscutter.server.game.GameServer> Done...

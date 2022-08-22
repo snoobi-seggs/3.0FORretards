@@ -1,0 +1,719 @@
+[
+    /* event music */
+    {
+        "activityId": 5072,
+        "activityType": 2202,
+        "scheduleId": 5072001,
+        "beginTime": 1657850400,
+        "endTime": 1661295600,
+        "meetCondList": [
+            5072001,
+            5072002,
+            5072003,
+            5072004,
+            5072005,
+            5072006,
+            5072007,
+            5072008,
+            5072009,
+            5072013
+        ]        
+    },
+    // event windy
+    {
+        "activityId": 5023,
+        "activityType": 2202, //TODO: find this and scheduleId
+        "scheduleId": 5072002,
+        "beginTime": 1657850400,
+        "endTime": 1661295600,
+        "meetCondList": []        
+    },
+    /* summer fantasia */
+    {
+        "Unk2800_KOMIPKKKOBE": [
+            {
+                "Unk2800_CLOCMPFBGMD": 2014003,
+                "state": "Unk2800_FDLKPKFOIIK_START"
+            },
+            {
+                "Unk2800_CLOCMPFBGMD": 2014002,
+                "state": "Unk2800_FDLKPKFOIIK_Unk2800_FDPBDHDHAKO"
+            },
+            {
+                "Unk2800_CLOCMPFBGMD": 2014011,
+                "state": "Unk2800_FDLKPKFOIIK_START"
+            },
+            {
+                "Unk2800_CLOCMPFBGMD": 2014010,
+                "state": "Unk2800_FDLKPKFOIIK_START"
+            },
+            {
+                "Unk2800_CLOCMPFBGMD": 2014009,
+                "state": "Unk2800_FDLKPKFOIIK_Unk2800_FDPBDHDHAKO"
+            },
+            {
+                "Unk2800_CLOCMPFBGMD": 2014004,
+                "state": "Unk2800_FDLKPKFOIIK_START"
+            },
+            {
+                "Unk2800_CLOCMPFBGMD": 2014015,
+                "state": "Unk2800_FDLKPKFOIIK_START"
+            },
+            {
+                "Unk2800_CLOCMPFBGMD": 2014008,
+                "state": "Unk2800_FDLKPKFOIIK_START"
+            },
+            {
+                "Unk2800_CLOCMPFBGMD": 2014012,
+                "state": "Unk2800_FDLKPKFOIIK_START"
+            },
+            {
+                "Unk2800_CLOCMPFBGMD": 2014013,
+                "state": "Unk2800_FDLKPKFOIIK_START"
+            },
+            {
+                "Unk2800_CLOCMPFBGMD": 2014014,
+                "state": "Unk2800_FDLKPKFOIIK_START"
+            },
+            {
+                "Unk2800_CLOCMPFBGMD": 2014016,
+                "state": "Unk2800_FDLKPKFOIIK_START"
+            },
+            {
+                "Unk2800_CLOCMPFBGMD": 2014017,
+                "state": "Unk2800_FDLKPKFOIIK_START"
+            }
+        ],
+        "activity_coin_map": {
+            "141": 0
+        },
+        "activity_id": 2014,
+        "activity_type": 2801,
+        "begin_time": 1657850400,
+        "cur_score": 0,
+        "end_time": 1661295600,
+        "expire_cond_list": [],
+        "first_day_start_time": 1657828800,
+        "is_finished": false,
+        "is_hidden": false,
+        "is_play_open_anim": false,
+        "is_starting": false,
+        "meet_cond_list": [
+            2014001,
+            2014002,
+            2014003,
+            2014004,
+            2014005,
+            2014006,
+            2014007,
+            2014009,
+            2014010,
+            2014011,
+            2014012,
+            2014013,
+            2014014,
+            2014015,
+            2014016,
+            2014017,
+            2014018,
+            2014019,
+            2014020,
+            2014021,
+            2014026,
+            2014027
+        ],
+        "music_game_info": {
+            "music_game_record_map": {},
+            "others_custom_beatmap": [],
+            "person_custom_beatmap": []
+        },
+        "schedule_id": 2014001,
+        "score_limit": 0,
+        "selected_avatar_reward_id": 3047001,
+        "taken_reward_list": [],
+        "unk_lgroup[622]": {
+            "unk_lgroup[13]": {
+                "unk_varInt[10]": 4,
+                "unk_varInt[12]": 1658174400,
+                "unk_varInt[15]": 1,
+                "unk_varInt[3]": 1
+            },
+            "unk_lgroup[15]": {
+                "unk_varInt[10]": 6,
+                "unk_varInt[14]": 1,
+                "unk_varInt[7]": 1658001600
+            },
+            "unk_varInt[10]": 12,
+            "unk_varInt[5]": 12
+        },
+        "unk_varInt[102]": 1,
+        "watcher_info_list": [
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 6,
+                "is_taken_reward": true,
+                "total_progress": 6,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 12,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 3,
+                "is_taken_reward": true,
+                "total_progress": 3,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 3,
+                "is_taken_reward": true,
+                "total_progress": 3,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 3,
+                "is_taken_reward": true,
+                "total_progress": 3,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 3,
+                "is_taken_reward": true,
+                "total_progress": 3,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 2,
+                "is_taken_reward": true,
+                "total_progress": 6,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 5,
+                "is_taken_reward": true,
+                "total_progress": 8,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 5,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 5,
+                "is_taken_reward": true,
+                "total_progress": 8,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 3,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 2400,
+                "is_taken_reward": true,
+                "total_progress": 2400,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            }
+        ]
+    },
+    /* event undang */
+    {
+        "Unk2800_KOMIPKKKOBE": [],
+        "activity_coin_map": {},
+        "activity_id": 5074,
+        "activity_type": 1405,
+        "begin_time": 1657666800,
+        "cur_score": 0,
+        "end_time": 1659434340,
+        "expire_cond_list": [],
+        "first_day_start_time": 1657656000,
+        "is_finished": false,
+        "is_hidden": false,
+        "is_play_open_anim": false,
+        "is_starting": false,
+        "meet_cond_list": [],
+        "music_game_info": {
+            "music_game_record_map": {},
+            "others_custom_beatmap": [],
+            "person_custom_beatmap": []
+        },
+        "schedule_id": 5074001,
+        "score_limit": 0,
+        "selected_avatar_reward_id": 0,
+        "taken_reward_list": [],
+        "watcher_info_list": []
+    },
+    /* Kazuha event */
+    {
+        "Unk2800_KOMIPKKKOBE": [],
+        "activity_coin_map": {},
+        "activity_id": 5088,
+        "activity_type": 8,
+        "begin_time": 1657666800,
+        "cur_score": 0,
+        "end_time": 1659434340,
+        "expire_cond_list": [],
+        "first_day_start_time": 1657656000,
+        "is_finished": false,
+        "is_hidden": false,
+        "is_play_open_anim": false,
+        "is_starting": false,
+        "meet_cond_list": [],
+        "music_game_info": {
+            "music_game_record_map": {},
+            "others_custom_beatmap": [],
+            "person_custom_beatmap": []
+        },
+        "schedule_id": 5088001,
+        "score_limit": 0,
+        "selected_avatar_reward_id": 0,
+        "taken_reward_list": [],
+        "watcher_info_list": []
+    },
+    /* This is a Character Testing Event    
+    {
+        "Unk2800_KOMIPKKKOBE": [],
+        "activity_coin_map": {},
+        "activity_id": 5002,
+        "activity_type": 4,
+        "begin_time": 1657666800,
+        "cur_score": 0,
+        "end_time": 1659434340,
+        "expire_cond_list": [],
+        "first_day_start_time": 1657656000,
+        "is_finished": false,
+        "is_hidden": false,
+        "is_play_open_anim": false,
+        "is_starting": false,
+        "meet_cond_list": [],
+        "music_game_info": {
+            "music_game_record_map": {},
+            "others_custom_beatmap": [],
+            "person_custom_beatmap": []
+        },
+        "schedule_id": 5002032,
+        "score_limit": 0,
+        "selected_avatar_reward_id": 0,
+        "taken_reward_list": [],
+        "unk_lgroup[1]": {
+            "unk_lgroup[13]": {
+                "unk_varInt[4]": 41,
+                "unk_varInt[7]": 480374
+            }
+        },
+        "watcher_info_list": []
+    },
+    */
+    /* event diluc */
+    {
+        "Unk2800_KOMIPKKKOBE": [],
+        "activity_coin_map": {},
+        "activity_id": 5085,
+        "activity_type": 1402,
+        "begin_time": 1657850400,
+        "cur_score": 0,
+        "end_time": 1661295600,
+        "expire_cond_list": [],
+        "first_day_start_time": 1658865600,
+        "is_finished": false,
+        "is_hidden": false,
+        "is_play_open_anim": false,
+        "is_starting": false,
+        "meet_cond_list": [
+            5085001,
+            5085002,
+            5085005,
+            5085006
+        ],
+        "music_game_info": {
+            "music_game_record_map": {},
+            "others_custom_beatmap": [],
+            "person_custom_beatmap": []
+        },
+        "schedule_id": 5085001,
+        "score_limit": 0,
+        "selected_avatar_reward_id": 0,
+        "taken_reward_list": [],
+        "unk_lgroup[859]": {
+            "unk_lgroup[3]": {
+                "unk_varInt[1]": 5,
+                "unk_varInt[2]": 1659211200
+            },
+            "unk_lgroup[9]": {
+                "unk_varInt[15]": 5,
+                "unk_varInt[7]": 3
+            },
+            "unk_varInt[14]": 1,
+            "unk_varInt[15]": 7
+        },
+        "watcher_info_list": [
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 1,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 1
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            },
+            {
+                "cur_progress": 0,
+                "is_taken_reward": true,
+                "total_progress": 1,
+                "watcher_id": 0
+            }
+        ]
+    },
+    /* fischl */
+    {
+        "Unk2800_KOMIPKKKOBE": [],
+        "activity_coin_map": {},
+        "activity_id": 5084,
+        "activity_type": 1602,
+        "begin_time": 1657850400,
+        "cur_score": 0,
+        "end_time": 1661295600,
+        "expire_cond_list": [],
+        "first_day_start_time": 1657828800,
+        "is_finished": false,
+        "is_hidden": false,
+        "is_play_open_anim": false,
+        "is_starting": false,
+        "meet_cond_list": [
+            5084003,
+            5084004,
+            5084005,
+            5084006,
+            5084007,
+            5084008,
+            5084009,
+            5084010,
+            5084011,
+            5084012,
+            5084013,
+            5084014,
+            5084015,
+            5084016,
+            5084018,
+            5084021,
+            5084022
+        ],
+        "music_game_info": {
+            "music_game_record_map": {},
+            "others_custom_beatmap": [],
+            "person_custom_beatmap": []
+        },
+        "schedule_id": 5084001,
+        "score_limit": 0,
+        "selected_avatar_reward_id": 0,
+        "taken_reward_list": [],
+        "unk_lgroup[1113]": {
+            "unk_bytes[2]": "CgsM",
+            "unk_lgroup[8]": {
+                "unk_varInt[12]": 18,
+                "unk_varInt[13]": 1,
+                "unk_varInt[15]": 2,
+                "unk_varInt[4]": 1137
+            },
+            "unk_string[13]": ",'23+%04/$1\"-.*"
+        },
+        "watcher_info_list": []
+    }
+]

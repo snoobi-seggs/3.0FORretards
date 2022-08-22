@@ -1,0 +1,14 @@
+{
+  "t": "{{SYSTEM_TIME}}",
+  "list": [
+    {
+      "ann_id": 1,
+      "title": "Welcome to YuukiPS",
+      "subtitle": "Welcome",
+      "banner": "{{DISPATCH_PUBLIC}}/hk4e/announcement/image/banner1.jpg",
+      "content": "For more info, please visit discord.yuuki.me",
+      "lang": "en-US"
+    }
+  ],
+  "total": 1
+}
